@@ -1,0 +1,23 @@
+   *** Version History ***
+   
+
+V-0.1.0: Unofficial Release
+Released: 04/16/2016
+**Libraries**
+GCore V-0.2.1
+
+  --  Added Basic gene's / creatures that consist of a user's predetermined properties and can be
+      combined into chromosomes and creatures and finally populations so they can be mutated
+      breed and fitness computed easier for a genetic algorithm.
+      
+      
+V-0.1.1: Competition Update
+Released: 04/l7/2016
+**Libraries**
+GCore V-0.2.1
+
+  --  Added a feature so that creatures can compete using a BiFunction in the population to determine who
+      will reproduce into the next generation.
+      
+  --  Added a feature so you can get the best creature in the population by putting all of the creatures in
+      a sudden death competition and receiving the last remaining creature.
